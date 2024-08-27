@@ -48,7 +48,7 @@ This project is a standalone book recommendation system built using Python, Jupy
    ```bash
    cd scripts
    ```
-   -Run the Tkinter application:
+   - Run the Tkinter application:
    ```bash
    python main.py
    ```
@@ -56,6 +56,7 @@ This project is a standalone book recommendation system built using Python, Jupy
 ### Usage
 **Jupyter Notebook**
 - Use the notebook to explore the data, train models, and visualize results.
+  
 **Tkinter Application**
 - Use the GUI to input a book title and get recommendations displayed interactively.
 
